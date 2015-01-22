@@ -5,6 +5,8 @@ GameJam 2013 in the Fall - Theme "Death is useful"
 This is a 2D game written in C# using XNA 4.0
 
 It was developed within 3 days, nothing is prefect coding quality is horrible - but for 3 days I think it turned out fine.
+There used to be a map editor that I coded for this game as well, but seems like that one
+got lost after the weekend.
 
 CONTROLS:
 Move Left and Right with arrows
